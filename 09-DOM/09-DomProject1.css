@@ -1,0 +1,13 @@
+.subButton {
+  width: auto;
+  height: auto;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+}
+#button1 {
+  background-color: rgb(107, 107, 107);
+  border: 0;
+}
